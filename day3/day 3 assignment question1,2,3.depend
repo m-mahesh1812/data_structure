@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609507127 source:c:\users\dvm\desktop\datastructure essentials\day 3 assignment\day 3 assignment question1,2,3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
